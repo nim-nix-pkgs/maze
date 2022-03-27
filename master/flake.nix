@@ -11,6 +11,7 @@
   inputs.src-maze-master.ref   = "refs/heads/master";
   inputs.src-maze-master.owner = "jiro4989";
   inputs.src-maze-master.repo  = "maze";
+  inputs.src-maze-master.dir   = "";
   inputs.src-maze-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
