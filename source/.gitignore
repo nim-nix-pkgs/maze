@@ -1,5 +1,0 @@
-/bin/
-/docs/
-/dist/
-tests/*
-!tests/*.*
